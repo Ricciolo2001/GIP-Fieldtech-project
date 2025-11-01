@@ -1,0 +1,19 @@
+
+- **interviste**
+	- *clienti*
+		- Padre Lorenzo
+		- Alfredo (contatto Edo)
+		- Antonio (contatto Filippo)
+			- #finire : recupero info
+	- *professionisti*
+		- valda.rondelli@unibo.it
+			- professoressa unibo magistrale in scienze agrarie
+			- MACCHINE PER LA DIFESA E PER L'AGRICOLTURA DI PRECISIONE
+		- chiara.cevoli3@unibo.it
+			- Meccanizzazione viticola e impianti enologici
+- **organizzare risposte**
+	- modo digeribile
+- **analisi competitor**
+	- brevetti
+	- ricerche google
+	- clienti
