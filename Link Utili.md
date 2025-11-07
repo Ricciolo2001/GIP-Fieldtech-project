@@ -11,6 +11,6 @@
 Eu raise researh project: [Automated grapevine pruning: an application of ecorobotics and precision agriculture within Spoke 3](https://www.raiseliguria.it/en/2025/04/24/automated-grapevine-pruning-an-application-of-ecorobotics-and-precision-agriculture-spoke-3/)  
 
 # Possible competitors
-[Atria](https://atriainnovation.com/en/blog/robotrim-the-automatic-pruning-system-for-vines/)
+[Atria - Robotrim](https://atriainnovation.com/en/projects/robotrim-automated-pruning-for-vineyards/)
 
-[Robotic Perception (aka scotch e fascette zip per attaccare un braccio al trattore)](https://www.futurefarming.com/tech-in-focus/robotic-pruner-for-orchards-and-vineyards/)
+[Robotic Perception](https://www.roboticperception.com/ai-pruner)
