@@ -14,3 +14,5 @@ Eu raise researh project: [Automated grapevine pruning: an application of ecorob
 [Atria - Robotrim](https://atriainnovation.com/en/projects/robotrim-automated-pruning-for-vineyards/)
 
 [Robotic Perception](https://www.roboticperception.com/ai-pruner)
+
+[Televitis](https://televitis.unirioja.es/index.php/que-es-televitis/)
